@@ -20,6 +20,27 @@
           "versionName": "1.6.1"
         }
       ]
+    },
+    {
+      "author": "",
+      "category": "",
+      "name": "X-plore",
+      "packageName": "com.lonelycatgames.Xplore",
+      "sourceUrl": "",
+      "versions": [
+        {
+          "abis": [
+            "universal"
+          ],
+          "changelog": "",
+          "downloadUrl": "https://raw.githubusercontent.com/fengxiaocan/storehome/main/com.lonelycatgames.Xplore/base.apk",
+          "minSdk": 24,
+          "size": 14506263,
+          "targetSdk": 35,
+          "versionCode": 44404,
+          "versionName": "4.44.04"
+        }
+      ]
     }
   ]
 }
