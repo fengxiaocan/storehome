@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "author": "小苹果",
+      "category": "影视",
+      "name": "小苹果影视盒子",
+      "packageName": "com.phoenix.tv",
+      "sourceUrl": "无",
+      "versions": [
+        {
+          "abis": [
+            "armeabi-v7a"
+          ],
+          "changelog": "",
+          "downloadUrl": "https://raw.githubusercontent.com/fengxiaocan/storehome/main/com.phoenix.tv/base.apk",
+          "minSdk": 19,
+          "size": 34826054,
+          "targetSdk": 26,
+          "versionCode": 161,
+          "versionName": "1.6.1"
+        }
+      ]
+    }
+  ]
+}
